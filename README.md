@@ -1,38 +1,59 @@
-# 👋 Olá, eu sou **Emerson Eruédinos da Silva**  
+<p align="center">
+  <img src="banner.png" alt="Banner Emerson Eruédinos - Desenvolvedor Front-End" width="100%">
+</p>
 
-🎯 Desenvolvedor Front-End apaixonado por tecnologia e aprendizado constante!  
-💡 Atualmente aprimorando minhas habilidades com **HTML, CSS, JavaScript e Git/GitHub**, criando projetos modernos e responsivos.  
+<h1 align="center">👋 Olá, eu sou Emerson Eruédinos</h1>
 
----
-
-## 🚀 Tecnologias que uso
-
-<div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-</div>
+<p align="center">
+  💻 <strong>Desenvolvedor Front-End</strong>  
+  <br>🚀 Criando soluções com código
+</p>
 
 ---
 
-## 🧩 Projetos em destaque
+### 🌟 Sobre mim
+Sou apaixonado por tecnologia e programação, e atualmente estou me aprofundando no **desenvolvimento Front-End**, estudando **HTML, CSS, JavaScript** e práticas modernas de design e responsividade.  
+Gosto de transformar ideias em interfaces funcionais, limpas e intuitivas.
 
-| Projeto | Descrição | Link |
-|----------|------------|------|
-| 🐶 **Projeto Pet** | Site de apresentação de adoção de pets, feito com HTML e CSS. | [Ver no GitHub](https://github.com/Hemmercamp/Projeto-Pet) |
-| 🌍 **Wide Coverage** | Landing page moderna, focada em responsividade. | [Ver no GitHub](https://github.com/Hemmercamp/Wide-Coverage) |
-| 💱 **Conversor de Moedas** | Conversor dinâmico com integração a API de câmbio e cotação em tempo real. | [Ver no GitHub](https://github.com/Hemmercamp/Conversor-de-Moedas) |
-| 🎲 **Sorteador de Números** | Aplicação divertida que gera números aleatórios com animações e efeitos visuais. | [Ver no GitHub](https://github.com/Hemmercamp/Sorteador-de-Numeros) |
-
----
-
-## 📫 Como me encontrar
-
-📧 **Email:** contatohemersonoficial@gmail.com  
-💼 **GitHub:** [github.com/Hemmercamp](https://github.com/Hemmercamp)
+📍 Localização: Brasil  
+📚 Atualmente estudando no **DevClub**  
+✉️ Contato: [contatohemersonoficial@gmail.com](mailto:contatohemersonoficial@gmail.com)
 
 ---
 
-> 💬 “A persistência é o caminho do êxito.” – Charles Chaplin
+### 🧰 Tecnologias que uso no dia a dia
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" alt="Tech Stack"/>
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🎯 [**Sorteador de Números**](https://github.com/Hemmercamp/Projeto-Sorteador) | Gera números aleatórios de forma simples e divertida. | HTML, CSS, JS |
+| 💱 [**Conversor de Moedas**](https://github.com/Hemmercamp/Conversor-de-Moedas) | Converte valores entre diferentes moedas com cotação atualizada. | HTML, CSS, JS |
+| 🐾 [**Projeto Pet**](https://github.com/Hemmercamp/Projeto-Pet) | Página de exemplo com design limpo e visual moderno. | HTML, CSS |
+| 📱 [**Easy Shopping**](https://github.com/Hemmercamp/Easy-Shopping) | Site responsivo de compras mobile. | HTML, CSS |
+| 🌍 [**Ampla Cobertura**](https://github.com/Hemmercamp/Wide-Coverage) | Landing page com foco em mobilidade urbana. | HTML, CSS |
+
+---
+
+### 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemmercamp&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Emerson"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemmercamp&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+### 💬 “A prática leva à perfeição”
+Cada linha de código é um passo a mais na jornada de se tornar um grande desenvolvedor.  
+Siga aprendendo, construindo e evoluindo. 🚀
+
+---
+
+<p align="center">
+  Feito com ❤️ por <strong>Emerson Eruédinos da Silva</strong>
+</p>
